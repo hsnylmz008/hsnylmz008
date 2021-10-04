@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/hsnylmz08" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" alt="hsnylmz08" height="50" width="50" /></a>
  <a href="https://twitter.com/sfrsekiz" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" alt="hsnylmz08" height="50" width="50" /></a>
- <a href="href="mailto:hsnylmz08@gmail.com"" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="hsnylmz08" height="50" width="100" /></a>
+ <a href="href="mailto:hsnylmz08@gmail.com"" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2991/2991144.png" alt="hsnylmz08" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
