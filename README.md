@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **aws, gcp, php, reactjs, linux, mysql, bash, redis, solr**
 
-- 📫 How to reach me **http://linkedin.com/in/hsnylmz08
+- 📫 How to reach me **http://linkedin.com/in/hsnylmz08**
 
 
 <h3 align="left">Connect with me:</h3>
