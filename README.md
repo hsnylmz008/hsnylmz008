@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **multiple projects**
 
-- 💬 Ask me about **aws, gcp, php, reactjs, linux, mysql, bash, redis, solr**
+- 💬 Ask me about **aws, gcp, php, reactjs, linux, mysql, twig, bash, redis, solr**
 
 - 📫 How to reach me **http://linkedin.com/in/hsnylmz08**
 
