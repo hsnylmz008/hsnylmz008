@@ -7,8 +7,9 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsnylmz008&label=Profile%20views&color=0e75b6&style=flat" alt="hsnylmz008" /> </p>
 
-	@@ -11,31 +11,28 @@
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsnylmz008" alt="hsnylmz008" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/sfrsekiz" target="blank"><img src="https://img.shields.io/twitter/follow/sfrsekiz?logo=twitter&style=for-the-badge" alt="sfrsekiz" /></a> </p>
 - 🌱 I’m currently learning **Symfony, GoLang**
 
 - 📝 I regularly write articles on [AWS, GCP, PHP](AWS, GCP, PHP)
