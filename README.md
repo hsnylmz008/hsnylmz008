@@ -1,22 +1,19 @@
 <h2 align="center">Hi 👋! My name is Hasan YILMAZ <br><br>Senior Software Development Engineer</h2>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hsnylmz008&label=Profile%20views&color=0e75b6&style=flat" alt="hsnylmz008" /> </p>
+<p align="left"> <a href="https://twitter.com/sfrsekiz" target="blank"><img src="https://img.shields.io/twitter/follow/sfrsekiz?logo=twitter&style=for-the-badge" alt="sfrsekiz" /></a> </p>
 ###
 
 <p align="left">Sonraki yazılımcıya anlatır gibi kod yazmak... Bütün mesele bu!</p>
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hsnylmz008&label=Profile%20views&color=0e75b6&style=flat" alt="hsnylmz008" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsnylmz008" alt="hsnylmz008" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sfrsekiz" target="blank"><img src="https://img.shields.io/twitter/follow/sfrsekiz?logo=twitter&style=for-the-badge" alt="sfrsekiz" /></a> </p>
 - 🌱 I’m currently learning **Symfony, GoLang**
 
 - 📝 I regularly write articles on [AWS, GCP, PHP](AWS, GCP, PHP)
 
-- 💬 Ask me about **aws, gcp, php, reactjs, linux, mysql, twig, bash, redis, solr**
+- 💬 Ask me about **aws, gcp, php, go, reactjs, linux, mysql, twig, bash, redis, solr**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hsnylmz008&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsnylmz008" alt="hsnylmz008" /></a> </p>
 </div>
 
 ###
