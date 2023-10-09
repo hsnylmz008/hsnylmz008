@@ -185,6 +185,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hsnylmz008/hsnylmz008/output/snake.svg" alt="Snake animation" />
-
 ###
