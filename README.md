@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **aws, gcp, php, go, reactjs, linux, mysql, twig, bash, redis, solr**
 <div align="center">
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsnylmz008" alt="hsnylmz008" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hsnylmz008&theme=juicyfresh" alt="hsnylmz008" /></a> </p>
 </div>
 
 ###
