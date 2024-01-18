@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hsnylmz.com.tr](https://hsnylmz.com.tr)
 
-- 📝 I regularly write articles on [[AWS, GCP, PHP, GO, Spring](AWS, GCP, PHP, GO, Spring)]([AWS, GCP, PHP, GO, Spring](AWS, GCP, PHP, GO, Spring))
+- 📝 I regularly write articles on [[AWS, GCP, PHP, GO, Spring](AWS, GCP, PHP, GO, Spring)]
 
 - 📫 How to reach me -> **hsnylmz08@gmail.com**
 
