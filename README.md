@@ -12,9 +12,9 @@
 
 - 📝 I regularly write articles on [[AWS, GCP, PHP, GO, Spring](AWS, GCP, PHP, GO, Spring)]([AWS, GCP, PHP, GO, Spring](AWS, GCP, PHP, GO, Spring))
 
-- 📫 How to reach me **hsnylmz08@gmail.com**
+- 📫 How to reach me -> **hsnylmz08@gmail.com**
 
-- ⚡ Life motto **Writing code as if you were explaining it to the next programmer... That's the whole point!**
+- ⚡ Life motto -> **Writing code as if you were explaining it to the next programmer... That's the whole point!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
